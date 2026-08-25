@@ -1,6 +1,6 @@
 # EXPT-7-DIPT
 ## Name : KAYALVIZHI.V
-## REG NO : 2122252655
+## REG NO : 212225040182
 ## Aim:
 To write a Python program to detect the lines using Hough Transform.
 
